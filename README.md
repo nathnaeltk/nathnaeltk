@@ -8,5 +8,5 @@
 - 🔭 I’m currently working on frontend web dev projects
 - 🌱 I’m currently learning full stack software engineering at ALX with Holberton School
 - 👯 I’m looking to collaborate on any project in my areas of expertise
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathnaeltk) [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nate23t)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/kalkbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathnaeltk) [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nate23t)
 
