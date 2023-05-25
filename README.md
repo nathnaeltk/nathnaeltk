@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on frontend web dev projects
-- 🌱 I’m currently learning full stack software engineering at ALX with Holberton School
+- 🌱 I’m a graduate of ALX Software Engineering program with Holberton School
 - 👯 I’m looking to collaborate on any project in my areas of expertise
 - :mailbox:How to reach me: <div id="badges">
   <a href="https://www.linkedin.com/in/nathnaeltk">
