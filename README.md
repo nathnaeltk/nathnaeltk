@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on frontend web dev projects
+- 🔭 I’m currently working on web dev projects
 - 🌱 I’m a graduate of ALX Software Engineering program with Holberton School
 - 👯 I’m looking to collaborate on any project in my areas of expertise
 - :mailbox:How to reach me: <div id="badges">
