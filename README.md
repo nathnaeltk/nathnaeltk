@@ -5,9 +5,10 @@
 
 
 
-- 🔭 I’m currently working on web dev projects
+- 🔭 I’m currently working on web dev projects as an intern
 - 🌱 I’m a graduate of ALX Software Engineering program with Holberton School
 - 👯 I’m looking to collaborate on any project in my areas of expertise
+- 😄 I write the funniest commit messages
 - :mailbox:How to reach me: <div id="badges">
   <a href="https://www.linkedin.com/in/nathnaeltk">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
