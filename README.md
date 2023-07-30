@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on web dev projects as an intern.
 - 🌱 I’m a graduate of ALX Software Engineering program with Holberton School.
 - 👯 I’m looking to collaborate on any project in my areas of expertise.
-- ♟️ Love anti-chess. Always up for a game.
+- ♟️ Love antichess. Always up for a game.
 - 😄 I write the funniest commit messages.
 - :mailbox: How to reach me: <div id="badges">
   <a href="https://www.linkedin.com/in/nathnaeltk">
