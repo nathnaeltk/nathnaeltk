@@ -1,8 +1,7 @@
-<h1 align="center">Hi! I'm Nate.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-- 🔭 I’m currently working on web dev projects as an intern.
+Hi there!
+- 🔭 I’m currently working on a web based payment solution project.
 - 🌱 I’m a graduate of ALX Software Engineering program with Holberton School.
-- 👯 I’m looking to collaborate on any project in my areas of expertise.
+- 👯 I’m looking to collaborate on any project in ML, and Web (ExpressJs, FastApi, Flask, NextJs and React).
 - ♟️ Love chess. Always up for a game.
 - :mailbox: How to reach me: <div id="badges">
   <a href="https://www.linkedin.com/in/nathnaeltk">
